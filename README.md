@@ -6,12 +6,12 @@ I followed this [video-guide](https://www.youtube.com/watch?v=hJBYojK7DO4) (than
 
 I personalized the code for doing bot work.
 
-The code is in the file [echovalleybot.php](https://github.com/PeriniMatteo/echovalleybot/bot/echovalleybot.php)
+The code is in the file [echovalleybot.php](https://github.com/PeriniMatteo/echovalleybot/blob/master/bot/echovalleybot.php)
 
 Some data about this bot:
 
 Use this token to access the HTTP API:
-96917727:AAHHlztO4oRfAu6XGIpq9ZYFGIvGhM1QuEg
+###96917727:AAHHlztO4oRfAu6XGIpq9ZYFGIvGhM1QuEg
 
 For a description of the Bot API, see [this page](https://core.telegram.org/bots/api)
 
@@ -23,5 +23,13 @@ https://api.telegram.org/bot96917727:AAHHlztO4oRfAu6XGIpq9ZYFGIvGhM1QuEg/sendmes
 
 
 
+
+
+##(only for the administrator)
+For the automatization of the process this command is needed!
+
+Put it into a browser!
+###(HTTPS is required!)
+####(GitHub will not work!)
 
 https://api.telegram.org/bot96917727:AAHHlztO4oRfAu6XGIpq9ZYFGIvGhM1QuEg/webhook?url=https://github.com/PeriniMatteo/echovalleybot/blob/master/bot/echovalleybot.php
